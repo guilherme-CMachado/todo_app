@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445038660322",
+    "project_id": "todoappwithnotifications",
+    "storage_bucket": "todoappwithnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445038660322:android:b74ad2ca61095a73faecbb",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_with_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445038660322-238kafdbtpi2q1serg657skgf30k74kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7NboVGGFzo1-iJNTLGpHkKmTQaGQSIow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445038660322-238kafdbtpi2q1serg657skgf30k74kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
